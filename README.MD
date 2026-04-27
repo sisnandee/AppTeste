@@ -1,4 +1,4 @@
-﻿# Aula 10 - Git
+﻿﻿# Aula 10 - Git
 
 Aqui pode ser adicionado novos comentários para deixar a descrição do projeto mais rica.
 
@@ -15,3 +15,6 @@ public class Teste
 }
 ```
 
+*Referências*
+https://github.com/KyleGobel/MarkdownSharp-GithubCodeBlocks  
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open  
